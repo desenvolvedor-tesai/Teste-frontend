@@ -29,5 +29,3 @@ O projeto deve ser desenvolvido utilizando:
 - Redux
 - Axios
 - MaterialUI
-
-**Prazo de conclusão de 1 dia.**
