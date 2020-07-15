@@ -31,4 +31,4 @@ O projeto deve ser desenvolvido utilizando:
 - Axios
 - MaterialUI
 
-Prazo de conclusão de 1 dia.
+**Prazo de conclusão de 1 dia.**
