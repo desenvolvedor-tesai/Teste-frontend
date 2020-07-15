@@ -23,3 +23,12 @@ https://github.com/desenvolvedor-tesai/Teste-frontend/blob/master/teste-frontend
  A API está documentada com swagger
  https://apitesai.azurewebsites.net/docs/index.html
 
+## Considerações ##
+O projeto deve ser desenvolvido utilizando:
+- ReactJs
+- Typescript
+- Redux
+- Axios
+- MaterialUI
+
+Prazo de conclusão de 1 dia.
