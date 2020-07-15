@@ -19,3 +19,7 @@ Uma tela onde será possível listar estes atendimentos, e uma tela para editar 
 ### Documento de apoio ##
 https://github.com/desenvolvedor-tesai/Teste-frontend/blob/master/teste-frontend.pdf
 
+## Documentação da API ##
+ A API está documentada com swagger
+ https://apitesai.azurewebsites.net/docs/index.html
+
