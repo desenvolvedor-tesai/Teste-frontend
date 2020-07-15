@@ -17,7 +17,7 @@ Você será responsável pelo desenvolvimento deste sistema. Inicialmente desenv
 Uma tela onde será possível listar estes atendimentos, e uma tela para editar um atendimento específico.
 
 ### Documento de apoio ##
-https://github.com/desenvolvedor-tesai/Teste-frontend/blob/master/CRUD%20agenda%20de%20consultas.pdf
+https://github.com/desenvolvedor-tesai/Teste-frontend/blob/master/CRUD%20agenda%20de%20consultas.docx
 ## Documentação da API ##
  A API está documentada com swagger
  https://apitesai.azurewebsites.net/docs/index.html
